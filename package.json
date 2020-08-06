@@ -1,0 +1,13 @@
+{
+  "name": "simple-node-server",
+  "version": "1.0.0",
+  "description": "A small example Node server using JS template literals to send dynamic HTML responses",
+  "main": "server.js",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Oliver Phillips <hello@oliverjam.es> (https://oliverjam.es)",
+  "license": "MIT"
+}
